@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 901aec50fa4054891bd4abaa917ab76a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - soundObjectPrefab: {fileID: 5814627641516182063, guid: 4305cbe9cae3ccc4db99d7d25de3e92d, type: 3}
+  - numberDisabelPanel: {instanceID: 0}
+  - presentDisablePanel: {instanceID: 0}
+  - startDisablePanel: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
