@@ -15,8 +15,8 @@ public enum SOUNDTYPE
     trumpet,
     dog,
     flute,
-    cork,
-    tabletennis,
+    seagull,
+    correct,
 }
 
 [System.Serializable]
